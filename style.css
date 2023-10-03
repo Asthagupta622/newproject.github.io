@@ -1,0 +1,23 @@
+.py-24 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    background-color: lightslategrey;
+}
+.text-gray-600 {
+    --text-opacity: 1;
+    color: #718096;
+    color: rgba(113,128,150,var(--text-opacity));
+    background-color: black;
+}
+.md\:flex-row {
+    flex-direction: row;
+    color:white;
+}
+.flex {
+    display: flex;
+    color: white;
+}
+.md\:mt-0 {
+    margin-top: 0;
+    background-color: steelblue;
+}
